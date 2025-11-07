@@ -5,6 +5,7 @@ It covers
 - broadcasting
 - indexing
   performance comparisons with native Python structures.
+
 Requirements
 - Python 3.x
 - NumPy
